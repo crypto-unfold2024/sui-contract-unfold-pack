@@ -30,4 +30,8 @@ This Move module (`unfold_pack::loyalty`) implements a loyalty program using `LO
 - **New Gifts**: Add more real-world assets or coupons.
 - **Metadata**: Attach additional information to each gift.
 
+## Contract Tracking Devnet
+https://devnet.suivision.xyz/txblock/6nnoqU3nHsXoQNaDoUQWBpDtAds5LcwyFRifxjKRKXNh
+
+
 This contract bridges blockchain rewards with real-world incentives using a fair and decentralized approach.
